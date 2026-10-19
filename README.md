@@ -1,4 +1,3 @@
-- 👋 Hi, I’m [Björn](https://github.com/bjoernricks) a Software Developer at [@Greenbone](https://github.com/greenbone/) and responsible for what's known as [OpenVAS](https://openvas.org/)
-- 👀 I’m interested in Python, motorcyles and music with heavy guitars
-- 💞️ I’m looking forward for poeple interested in our stack and working with me [@Greenbone](https://www.greenbone.net/en/)
+- 👋 Hi, I’m [Björn](https://github.com/bjoernricks) a Software Developer and for a long time I took on responsibility for what's known as [OpenVAS](https://openvas.org/)
+- 👀 I’m interested in Python, cylcing and music with heavy guitars
 - 📫 You can reach me <a rel="me" href="https://norden.social/@bjoernricks">@mastodon</a>
